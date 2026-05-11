@@ -35,9 +35,3 @@ The script generates 6 charts:
 4. Sales Distribution (histogram)
 5. Orders by Customer Segment (pie)
 6. Monthly Sales Trend (line)
-
-Dataset
-Synthetically generated data modelled on the popular [Tableau Sample Superstore](https://www.tableau.com/learn/articles/free-public-data-sets) dataset — no download required, the script generates it automatically.
-
----
-*Project by Jane Smith | B.Sc. Statistics, University of Delhi*
